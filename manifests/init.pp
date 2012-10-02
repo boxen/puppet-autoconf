@@ -1,0 +1,3 @@
+class autoconf {
+  package { 'autoconf': }
+}
