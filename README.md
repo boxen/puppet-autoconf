@@ -1,4 +1,11 @@
-# Puppet autoconf for Boxen
+# Autoconf Puppet Module for Boxen
 
-FIXME: update me bro
+Requires the following boxen modules:
 
+* `boxen`
+
+## Usage
+
+```puppet
+include autoconf
+```
