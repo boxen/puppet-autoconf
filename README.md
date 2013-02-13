@@ -1,8 +1,7 @@
-# Autoconf Puppet Module for Boxen
+# Template Puppet Module for Boxen
 
-Requires the following boxen modules:
-
-* `boxen`
+Install [autoconf](http://www.gnu.org/software/autoconf), your
+favorite build and release framework.
 
 ## Usage
 
@@ -10,8 +9,11 @@ Requires the following boxen modules:
 include autoconf
 ```
 
-## Developing
+## Required Puppet Modules
 
-Write code.
+* `boxen`
 
-Run `script/cibuild`.
+## Development
+
+Write code. Run `script/cibuild` to test it. Check the `script`
+directory for other useful tools.
