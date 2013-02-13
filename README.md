@@ -1,4 +1,4 @@
-# Template Puppet Module for Boxen
+# Autoconf Puppet Module for Boxen
 
 Install [autoconf](http://www.gnu.org/software/autoconf), your
 favorite build and release framework.
